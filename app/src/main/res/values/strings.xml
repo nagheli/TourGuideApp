@@ -1,0 +1,261 @@
+<resources>
+    <string name="app_name">Bucharest Tour Guide</string>
+
+
+    <!-- Palace of the Parliament1-->
+    <string name="sight_name1">Palace of the Parliament</string>
+    <string name="sight_description1">The Palace of the Parliament is the seat of the Parliament of Romania. Located on Dealul Arsenalului in central Buchares, it is the second largest administrative building in the world, if excluding the Pentagon.</string>
+    <string name="sight_address1">Izvor 2-4, București, Romania</string>
+    <string name="sight_phone1">+40 21 316 0300</string>
+    <string name="sight_website1">www.cic.cdep.ro</string>
+
+    <!-- Romanian Athenaeum-->
+    <string name="sight_name2">Romanian Athenaeum</string>
+    <string name="sight_description2">The Romanian Athenaeum is a concert hall in the center of Bucharest, Romania and a landmark of the Romanian capital city. Opened in 1888, the ornate, domed, circular building is the city"'"s main concert hall and home of the "George Enescu" Philharmonic and of the George Enescu annual international music festival.</string>
+    <string name="sight_address2">Benjamin Franklin 1-3, București 030167, Romania</string>
+    <string name="sight_phone2">+40 21 315 2567</string>
+    <string name="sight_website2">www.fge.org.ro</string>
+
+    <!-- Arcul de Triumf-->
+    <string name="sight_name3">Arcul de Triumf</string>
+    <string name="sight_description3">Arcul de Triumf is a triumphal arch located in the northern part of Bucharest, on the Kiseleff Road. The first, wooden, triumphal arch was built hurriedly, after Romania gained its independence, so that the victorious troops could march under it.</string>
+    <string name="sight_address3">Piața Arcul de Triumf, București, Romania</string>
+    <string name="sight_phone3">+40 787 584 104</string>
+
+    <!-- University Square-->
+    <string name="sight_name4">University Square</string>
+    <string name="sight_description4">University Square is located in downtown Bucharest, near the University of Bucharest. It is served by Universitate metro station.</string>
+    <string name="sight_address4">Bulevardul Regina Elisabeta 3, București 030167, Romania</string>
+
+    <!-- Herăstrău Park-->
+    <string name="sight_name5">Herăstrău Park</string>
+    <string name="sight_description5">Herăstrău Park or King Michael I Park is a large park on the northern side of Bucharest, Romania, around Lake Herăstrău, one of the lakes formed by the Colentina River.</string>
+    <string name="sight_address5">București, Romania</string>
+
+    <!-- Cișmigiu Gardens-->
+    <string name="sight_name6">Cișmigiu Gardens</string>
+    <string name="sight_description6">Cișmigiu Park is a vast English-style garden with fountains, monuments and a popular boating lake where the landmark Monte Carlo restaurant stands on a central island. Elegant pre-communist buildings line nearby Regina Maria boulevard. The 19th-century Gambrinus Brewery serves local beer and traditional food, and surrounding streets have snack bars, pubs and stylish, low-key nightclubs.</string>
+    <string name="sight_address6">Bulevardul Regina Elisabeta, București 030167, Romania</string>
+    <string name="sight_phone6">+40 21 224 5860</string>
+
+
+    <!-- Stavropoleos Monastery-->
+    <string name="sight_name7">Stavropoleos Monastery</string>
+    <string name="sight_description7">Stavropoleos Monastery, also known as Stavropoleos Church during the last century when the monastery was dissolved, is an Eastern Orthodox monastery for nuns in central Bucharest, Romania. Its church is built in Brâncovenesc style.</string>
+    <string name="sight_address7">Stavropoleos 4, București 030167, Romania</string>
+    <string name="sight_phone7">+40 21 313 4747</string>
+
+    <!-- Cotroceni Palace-->
+    <string name="sight_name8">Cotroceni Palace</string>
+    <string name="sight_description8">Cotroceni Palace is the official residence of the President of Romania. It is located at Bulevardul Geniului, nr. 1, in Bucharest, Romania. The palace also houses the National Cotroceni Museum. </string>
+    <string name="sight_address8">Bulevardul Geniului 1, București, Romania</string>
+    <string name="sight_phone8">+40 21 317 3106</string>
+
+    <!-- Mogoșoaia Palace-->
+    <string name="sight_name9">Mogoșoaia Palace</string>
+    <string name="sight_description9">Mogoșoaia Palace is situated about 10 kilometres from Bucharest, Romania. It was built between 1698-1702 by Constantin Brâncoveanu in what is called the Romanian Renaissance style or Brâncovenesc style.</string>
+    <string name="sight_address9">Valea Parcului 1, Mogoșoaia, Romania</string>
+    <string name="sight_phone9">+40 21 350 6619</string>
+
+    <!-- CEC Palace -->
+    <string name="sight_name10">CEC Palace</string>
+    <string name="sight_description10">The CEC Palace in Bucharest, Romania, built in 1900 and situated on Calea Victoriei opposite the National Museum of Romanian History, is the headquarter of CEC Bank.</string>
+    <string name="sight_address10">Valea Parcului 1, Mogoșoaia, Romania</string>
+    <string name="sight_phone10">+40 21 350 6619</string>
+
+
+    <!-- Kane -->
+    <string name="food_name1">Kane</string>
+    <string name="food_description1">Seasonal bistro using 100% local products ; young Romanian awarded Chef in charge of a 12 cooks team; relaxed cosmopolitan atmosphere.</string>
+    <string name="food_address1">Tunari 60, Bucharest, Romania</string>
+    <string name="food_phone1">+40 31 410 0016</string>
+    <string name="food_website1">www.kane-restaurant.com</string>
+
+    <!-- Sara -->
+    <string name="food_name2">Sara</string>
+    <string name="food_description2">SARA is the italian gourmet story: pizza, pasta and the new highly appreciated concept "al vapore" (steam cuisine). If you want to have a healthy lunch with your business partners or an Italian dinner with your friends and family, SARA is the perfect place to be.</string>
+    <string name="food_address2">Popa Petre 5, Bucharest 030167, Romania</string>
+    <string name="food_phone2">+40 726 220 220</string>
+    <string name="food_website2">www.sara-restaurant.ro</string>
+
+
+    <!-- the ARTIST -->
+    <string name="food_name3">the ARTIST</string>
+    <string name="food_description3">Modern cuisine.</string>
+    <string name="food_address3">Calea Victoriei 147, Bucharest 010072, Romania</string>
+    <string name="food_phone3">+40 728 318 871</string>
+    <string name="food_website3">www.theartist.ro</string>
+
+    <!-- Bistro GUXT -->
+    <string name="food_name4">Bistro GUXT</string>
+    <string name="food_description4">Bistro GUXT is a cosy family owned restaurant, offering a delicious Mediterranean cuisine with a touch of Asian influences. Every dish is prepared with fresh ingredients while our desserts are made in-house. We offer an excellent selection of Romanian wines and international and Romanian craft beers, designed to be paired with our food.</string>
+    <string name="food_address4">Racovita Dimitrie 37, Bucharest 023992, Romania</string>
+    <string name="food_phone4">+40 721 490 270</string>
+    <string name="food_website4">www.guxt.ro</string>
+
+    <!-- La Pescaria Dorobantilor -->
+    <string name="food_name5">La Pescaria Dorobantilor</string>
+    <string name="food_description5">Seafood, Mediterranean, Romanian cuisine.</string>
+    <string name="food_address5">Tudor Stefan 23, Bucharest 011655, Romania</string>
+    <string name="food_phone5">+40 722 271 157</string>
+
+
+    <!-- Beca's Kitchen - Homemade Food -->
+    <string name="food_name6">Beca"'"s Kitchen</string>
+    <string name="food_description6">Inspired by freshness!</string>
+    <string name="food_address6">Eminescu Mihai 80, Bucharest 020081, Romania</string>
+    <string name="food_phone6">+40 744 344 700</string>
+    <string name="food_website6">www.becaskitchen.ro</string>
+
+
+    <!-- NOR - Sky Casual Restaurant-->
+    <string name="food_name7">NOR - Sky Casual Restaurant</string>
+    <string name="food_description7">NOR - Sky Casual Restaurant is for the smart casual people. NOR is everything that a random restaurant is not: the Highest, the Coolest Day and  Night Storyteller, the newest Landmark of Bucharest. And that will always be News!</string>
+    <string name="food_address7">Sky Tower, 246 C Calea Floreasca, 36th floor, Bucharest 014476, Romania.</string>
+    <string name="food_phone7">+40 31 005 6056</string>
+    <string name="food_website7">www.norbucharest.ro</string>
+
+
+    <!-- Noa restoclub-->
+    <string name="food_name8">Noa restoclub</string>
+    <string name="food_description8">Italian, Steakhouse, Bar, Eastern European, Vegetarian Friendly, Vegan Options, Gluten Free Options.</string>
+    <string name="food_address8">Calea Victoriei 26, Bucharest 030027, Romania</string>
+    <string name="food_phone8">+40 799 747 557</string>
+    <string name="food_website8">www.noarestoclub.ro</string>
+
+
+    <!-- Hard Rock Cafe-->
+    <string name="food_name9">Hard Rock Cafe</string>
+    <string name="food_description9">If you enjoy good music and exquisite atmosphere this is the place for you! A great selection of classic American recipes and signature cocktails waits to tempt and satisfy your wildest cravings. You"'"ll find some of Bucharest's best live concerts, valuable pieces of memorabilia as Bruce Springsteen's guitar and John Lennon's outfit and the ultimate fashion trends in the souvenir shop. Rock on!</string>
+    <string name="food_address9">Sos. Kiseleff, Nr. 32C | Herastrau Park, Bucharest 011343, Romania</string>
+    <string name="food_phone9">+40 21 206 6261</string>
+    <string name="food_website9">www.hardrock.com</string>
+
+    <!-- Excalibur-->
+    <string name="food_name10">Excalibur</string>
+    <string name="food_description10">If you enjoy good music and exquisite atmosphere this is the place for you! A great selection of classic American recipes and signature cocktails waits to tempt and satisfy your wildest cravings. You"'"ll find some of Bucharest's best live concerts, valuable pieces of memorabilia as Bruce Springsteen's guitar and John Lennon's outfit and the ultimate fashion trends in the souvenir shop. Rock on!</string>
+    <string name="food_address10">Academiei near 39-41, Bucharest 010013, Romania</string>
+    <string name="food_phone10">+40 730 190 364</string>
+    <string name="food_website10">http://www.restaurantexcalibur.ro</string>
+
+
+    <!-- Control Club-->
+    <string name="party_name1">Control Club</string>
+    <string name="party_description1">The club’s outdoor terrace, open in all seasons, is the place to go for a casual drink and conversation literally every day. Still, the best day to go to Control, ironically, is Tuesday. What started as a happy hour promotion designed to bring people to the club in the quietest evening of the week has turned into somewhat of an institution, rivalling Friday as the best night to go out.</string>
+    <string name="party_address1">Constantin Mille 4, Bucharest, Romania</string>
+    <string name="party_phone1">+40 733 927 861</string>
+    <string name="party_website1">www.control-club.ro</string>
+
+    <!-- Expirat-->
+    <string name="party_name2">Expirat</string>
+    <string name="party_description2">Expirat recently moved to a new location, nearby Parcul Carol, in a beautifully reconditioned former factory a little outside the city centre. Music-wise, Expirat is a tale of two clubs. Counting on a handful of DJs whom the crowd knows and loves, Expirat is the place where people go dancing to familiar tunes and medley of today and yesterday’s hits. But just when you think you’ve got it figured out, a new cool band or DJ drops in from somewhere, and it’s unlike what you’ve seen before.</string>
+    <string name="party_address2">Doctor Constantin Istrati 1, Bucharest, Romania</string>
+    <string name="party_phone2">+40 733 974 728</string>
+    <string name="party_website2">https://expirat.org</string>
+
+    <!-- Gaia Boutique Club-->
+    <string name="party_name3">Gaia Boutique Club</string>
+    <string name="party_description3">At Gaia Boutique Club, expect to party alongside Bucharest’s beautiful people and mingle with celebrities. Opened more than ten years ago, it has gained notoriety and built a reputation with its fashion-centric parties. Thursday parties are a long held tradition, so if you happen to be in Bucharest, save the night for Gaia.</string>
+    <string name="party_address3">Piața Presei Libere 1, Bucharest, Romania</string>
+    <string name="party_phone3">+40 723 610 933</string>
+    <string name="party_website3">www.gaiaboutiqueclub.ro/</string>
+
+
+    <!-- Silver Church-->
+    <string name="party_name4">Silver Church</string>
+    <string name="party_description4">A gastropub by day, after hours Silver Church becomes one of the most underrated nightlife destinations in town. Airy and recently refurbished, it has transformed from a student disco into an attractive nightlife destination. Its laid-back vibe attracts a mixed crowd with its eclectic selection of music, and prices more affordable than those in, say, the city’s famed Old Centre.</string>
+    <string name="party_address4">Calea Plevnei 61, Bucharest, Romania</string>
+    <string name="party_phone4">+40 723 379 026</string>
+
+    <!-- Loft-->
+    <string name="party_name5">Loft</string>
+    <string name="party_description5">Offering a cosier alternative to the Romanian capital’s larger party venues, Loft is fast attracting an enthusiastic following. A restaurant serving delicious Asian food by day, at night it becomes a contender for the more established clubs located in Bucharest’s Floreasca neighbourhood.</string>
+    <string name="party_address5">Metropolis Center, Corp A, Parter, Strada Grigore Alexandrescu 89-97, Bucharest, Romania</string>
+    <string name="party_phone5">+40 756 385 638</string>
+    <string name="party_website5">www.loftlounge.ro</string>
+
+
+    <!-- Fratelli Social Club-->
+    <string name="party_name6">Fratelli Social Club</string>
+    <string name="party_description6">One of Bucharest’s most well-known clubs, to many Fratelli is likened to an institution of nighttime fun. Here, nothing is over the top, so bring your most eccentric outfit and attitude, and you’ll fit right in. As is the case for many exclusive party venues in Bucharest, reserving a table is mandatory for a night of fun.</string>
+    <string name="party_address6">Glodeni, Bucharest, Romania</string>
+    <string name="party_phone6">+40 722 115 115</string>
+    <string name="party_website6">www.fratelli.ro</string>
+
+    <!-- Face Club Bucharest-->
+    <string name="party_name7">Face Club</string>
+    <string name="party_description7">The newest addition on the list of nightclubs in Bucharest, Face Club is also the city’s biggest. Part of a complex that includes a fine dining restaurant, it is spread over 3,000 square meters. And these are not the only features that set it apart. The ceiling, decorated as a starry night sky, as well as the 600-meter screens create a setting unlike that of any other club in Romania, and the crowds are loving it.</string>
+    <string name="party_address7">Piața Presei Libere 3-5, Bucharest, Romania</string>
+    <string name="party_phone7">+40 730 400 800</string>
+    <string name="party_website7">www.faceclubbucharest.com</string>
+
+    <!-- BOA-->
+    <string name="party_name8">BOA</string>
+    <string name="party_description8">Very much an essential Bucharest nightlife experience these days. From the outside you could be forgiven for thinking that this is a fairly nondescript building, as it looks vaguely like a warehouse. Once you are in, however: Wow! It is an enormous place that mixes luxury with great music courtesy of two top local resident DJs who know how to work a crowd of rich and gorgeous party people. </string>
+    <string name="party_address8">Sos. Kiseleff 32 C , Herastrau, Bucharest, Romania</string>
+    <string name="party_phone8">+40 736 300 700</string>
+    <string name="party_website8">www.boa-beatofangels.com</string>
+
+    <!-- Player Club-->
+    <string name="party_name9">Player Club</string>
+    <string name="party_description9">A club for all seasons Player remains at the cutting edge of the Bucharest nightlife scene: honestly, if it"'"s top people and top sounds you want in an exclusive setting then this should be your first stop in the city. Boasts the sexiest dancers, the best DJs - often as many as four top names in one night - and is guaranteed to leave you bleary-eyed the next morning and wanting more. We should also point out that the attitude is a bit more relaxed here than that at some of the other uberclubs, especially during the summer.  Has a swimming pool which is open daily throughout the summer.</string>
+    <string name="party_address9"> Primo Nebiolo 1, Piata Montreal , Piata Victoriei, Bucharest, Romania</string>
+    <string name="party_phone9">+40 720 734 734</string>
+    <string name="party_website9">www.playerclub.ro</string>
+
+    <!-- Bomaboo Club-->
+    <string name="party_name10">Bamboo Club</string>
+    <string name="party_description10">Romania"'"s original super club. Quite frankly, until you have been to Bamboo you haven"'"t been on a proper night out in Bucharest. No small amount of money has been invested in creating a club which is quite simply something else, and really has to be seen to be believed. The latest addition is an amazing new stage designed by the same team behind the stage at the Moulin Rouge. It"'"s always packed with a very good mix of people (including plenty of foreigners: it is renowned far and wide). It is certainly not just for the rich and famous, as others may have you believe. Indeed, given the quality of the place prices are more than decent. Always puts on loads of good live entertainment, including international acts from around the world, a touch of cabaret and plenty of seriously sexy dancers.</string>
+    <string name="party_address10">Str. Caroteni 11, Bucharest, Romania</string>
+    <string name="party_phone10">+40 723 226 266</string>
+    <string name="party_website10">www.bambooclub.ro/</string>
+
+
+    <!-- Dimitrie Gusti National Village Museum-->
+    <string name="cultural_name1">Dimitrie Gusti National Village Museum</string>
+    <string name="cultural_description1">The Village Museum is an open-air ethnographic museum located in the Herăstrău Park, showcasing traditional Romanian village life. The museum extends to over 100,000 m², and contains 272 authentic peasant farms and houses from all over Romania.</string>
+    <string name="cultural_address1">Sos. Pavel Dimitrievici Kiseleff 28-30, Bucharest 011347, Romania</string>
+    <string name="cultural_phone1">+40 21 317 9103</string>
+
+
+    <!-- National Museum of Art of Romania-->
+    <string name="cultural_name2">National Museum of Art of Romania</string>
+    <string name="cultural_description2">The National Museum of Art of Romania is located in the Royal Palace in Revolution Square, central Bucharest. It features collections of medieval and modern Romanian art, as well as the international collection assembled by the Romanian royal family.</string>
+    <string name="cultural_address2">Calea Victoriei 49-53, Bucharest, Romania</string>
+    <string name="cultural_phone2">+40 21 313 3030</string>
+
+
+    <!-- National Museum of Romanian History-->
+    <string name="cultural_name3">National Museum of Romanian History</string>
+    <string name="cultural_description3">The National Museum of Romanian History is a museum located on Calea Victoriei in Bucharest, Romania, which contains Romanian historical artifacts from prehistoric times up to modern times.</string>
+    <string name="cultural_address3">Calea Victoriei 12, Bucharest 030026, Romania</string>
+    <string name="cultural_phone3">+40 21 315 8207</string>
+
+
+    <!-- Grigore Antipa National Museum of Natural History-->
+    <string name="cultural_name4">Grigore Antipa National Museum of Natural History</string>
+    <string name="cultural_description4">The Grigore Antipa National Museum of Natural History is a Natural History museum, located in Bucharest, Romania. It was originally established as the National Museum of Natural History on 3 November 1834.</string>
+    <string name="cultural_address4">Sos. Pavel Dimitrievici Kiseleff 1, Bucharest 011341, Romania</string>
+    <string name="cultural_phone4">+40 21 312 8826</string>
+
+
+    <!-- Bucharest Botanical Garden-->
+    <string name="cultural_name5">Bucharest Botanical Garden</string>
+    <string name="cultural_description5">The Bucharest Botanical Garden, now named after its founder, Dimitrie Brândză, is located in the Cotroceni neighbourhood of Bucharest, Romania. It has a surface of 17.5 hectares, and has more than 10,000 species of plants.</string>
+    <string name="cultural_address5">Sos. Cotroceni 32, Bucharest 050563, Romania</string>
+    <string name="cultural_phone5">+40 21 410 9139</string>
+
+    <!-- National Military Museum of Romania-->
+    <string name="cultural_name6">National Military Museum of Romania</string>
+    <string name="cultural_description6">The National Military Museum, was established in 1923 by King Ferdinand. It has been at its present site since 1988, in a building finished in 1898.</string>
+    <string name="cultural_address6">Mircea Vulcănescu 125-127, Bucharest 010819, Romania</string>
+    <string name="cultural_phone6">+40 21 319 5904</string>
+
+    <!-- George Enescu National Museum-->
+    <string name="cultural_name7">George Enescu National Museum</string>
+    <string name="cultural_description7">Palace-turned-museum featuring exhibits on the life of the famous Romanian musician George Enuscu.</string>
+    <string name="cultural_address7"> Calea Victoriei 141, Bucharest 010071, Romania</string>
+    <string name="cultural_phone7">+40 747 290 104</string>
+
+
+</resources>
