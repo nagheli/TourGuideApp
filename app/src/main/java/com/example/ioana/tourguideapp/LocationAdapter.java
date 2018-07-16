@@ -19,7 +19,6 @@ public class LocationAdapter extends ArrayAdapter<Location> {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
-
         View listItemView = convertView;
 
         if (listItemView == null) {
@@ -52,9 +51,6 @@ public class LocationAdapter extends ArrayAdapter<Location> {
         } else {
             photoLocationImageView.setVisibility(View.GONE);
         }
-
         return listItemView;
     }
-
-
 }

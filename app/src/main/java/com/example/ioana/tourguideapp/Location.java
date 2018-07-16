@@ -38,9 +38,7 @@ public class Location {
         return name;
     }
 
-    //public void setName(String name) {this.name = name;}
-
-    public String getDescription() {return description;}
+    public String getDescription() { return description;}
 
     public String getAddress() {
         return address;
@@ -61,6 +59,5 @@ public class Location {
     public boolean hasImage() {
         return imageResourceId != NO_IMAGE_PROVIDED;
     }
-
 }
 

@@ -5,11 +5,10 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-
 public class FragmentAdapter extends FragmentPagerAdapter {
 
     final int PAGE_COUNT = 4;
-    private String tabTitles[] = new String[] { "Sights", "Food", "Party","Cultural" };
+    private String tabTitles[] = new String[]{"Sights", "Food", "Party", "Cultural"};
     private Context context;
 
     public FragmentAdapter(FragmentManager fm) {

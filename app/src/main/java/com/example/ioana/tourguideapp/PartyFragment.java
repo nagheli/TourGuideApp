@@ -10,12 +10,10 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-
 /**
  * A simple {@link Fragment} subclass.
  */
 public class PartyFragment extends Fragment {
-
 
     public PartyFragment() {
         // Required empty public constructor
@@ -39,13 +37,10 @@ public class PartyFragment extends Fragment {
         locationList.add(new Location(getString(R.string.party_name9), getString(R.string.party_description9), getString(R.string.party_address9), getString(R.string.party_phone9), getString(R.string.party_website9), R.drawable.player));
         locationList.add(new Location(getString(R.string.party_name10), getString(R.string.party_description10), getString(R.string.party_address10), getString(R.string.party_phone10), getString(R.string.party_website10), R.drawable.bamboo));
 
-
         LocationAdapter adapter = new LocationAdapter(getActivity(), locationList);
         ListView listView = (ListView) rootview.findViewById(R.id.list);
         listView.setAdapter(adapter);
-
         // Inflate the layout for this fragment
         return rootview;
     }
-
 }
